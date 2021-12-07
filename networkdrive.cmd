@@ -1,0 +1,1 @@
+net use Z: \\Server\folder /user:username password /persistent:yes
